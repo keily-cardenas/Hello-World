@@ -1,2 +1,6 @@
-# Hello-World
-This is the program Hello World
+#include <iostream>
+using namespace std;
+#include "hello.h"
+void hello() {
+cout << "Hello World\n";
+}
